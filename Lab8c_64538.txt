@@ -1,0 +1,18 @@
+//64050538 ประณต คำวงษา
+1. Data in memory:
+   from handler
+   Writing to memory: os kmitl
+
+2. successfully obtain ppid
+   ppid = 1706, Btw SIGUSR1 = 10
+   waiting for SIG before writing to server
+   Clnt write to mem & notify: os kmitl
+
+   from handler from handler From child: os kmitl
+
+
+3. Q5.1 b
+   Q5.2 (int *)
+   Q5.3 count[0] = temp;
+
+4. 4 5 6

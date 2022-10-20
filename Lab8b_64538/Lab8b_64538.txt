@@ -1,0 +1,10 @@
+//64050538 ประณต คำวงษา
+
+q1.3 pfd[1]
+q1.4 buf
+q1.5 pfd[0]
+q1.6 pfd[0]
+q1.7 pfd[1], inbuf, strlen(inbuf) + 1
+q1.8 pfd[1]
+
+ans2.1 dup2(fd, 1);
